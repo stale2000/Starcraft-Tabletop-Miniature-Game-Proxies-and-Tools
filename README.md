@@ -13,3 +13,5 @@ Protoss: In progress.
 
 Terran: Not started.
 
+
+QUICK DOWNLOAD LINK: https://github.com/stale2000/Starcraft-Tabletop-Miniature-Game-Proxies-and-Tools/archive/refs/heads/main.zip
